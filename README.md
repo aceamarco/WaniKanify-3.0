@@ -2,7 +2,7 @@
 
 ## About
 
-Wanikanify 2.0 is a Google Chrome Extension for studying Japanese.
+Wanikanify 3.0 is a Google Chrome Extension for studying Japanese.
 
 This extension takes the vocabulary you've studied on Wanikani, finds the english word on a webpage and substitutes the kanji character. As you learn more kanji, your webpages begin to fill up with kanji! Wanikanify can find words anywhere on a webpage and replace it for kanji characters. It is a great utility for practicing and recalling vocabulary you may have forgotten.
 
